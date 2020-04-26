@@ -1,5 +1,5 @@
 classes= 1  
-train  = custom/train.txt  
-valid  = custom/test.txt  
-names = custom/obj.names  
-backup = backup/
+train  = data/train.txt  
+valid  = data/test.txt  
+names = data/obj.names  
+backup = /mydrive/yolov3/backup/
