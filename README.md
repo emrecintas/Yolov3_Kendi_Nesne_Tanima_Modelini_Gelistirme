@@ -3,7 +3,7 @@
 
 Özel bir YOLOv3 dedektörü oluşturmak için aşağıdakilere ihtiyacımız olacak: (Hepsi repoda mevcut)
 
-*   Etiketli Özel Veri Seti (<a target="_blank" href="https://github.com/emrecintas/Yolov3_Kendi_Nesne_Tanima_Modelini_Gelistirme/blob/master/verisetiOrnek.zip">Örnek Veri Seti</a>)
+*   Etiketli Özel Veri Seti (<a target="_blank" href="https://github.com/emrecintas/Yolov3_Kendi_Nesne_Tanima_Modelini_Gelistirme/blob/master/verisetiOrnek.zip">Örnek Veri Seti Dizaynı</a>)
 *   Özel .cfg dosyası
 *   obj.data ve obj.names dosyaları
 *   train.txt dosyası (test.txt burada isteğe bağlıdır)
