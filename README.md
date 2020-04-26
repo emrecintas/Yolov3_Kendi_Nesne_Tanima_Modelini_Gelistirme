@@ -1,9 +1,9 @@
 # YOLOv3 ile Kendi Nesne Tanıma Modelini Geliştirme
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/emrecintas/Yolov3_Kendi_Nesne_Tanima_Modelini_Gelistirme/blob/master/iha.png"><img src="https://github.com/emrecintas/Yolov3_Kendi_Nesne_Tanima_Modelini_Gelistirme/blob/master/iha.png" alt="" style="max-width:100%;"></a></p>
 
-Özel bir YOLOv3 dedektörü oluşturmak için aşağıdakilere ihtiyacımız olacak:
+Özel bir YOLOv3 dedektörü oluşturmak için aşağıdakilere ihtiyacımız olacak: (Hepsi repoda mevcut)
 
-*   Etiketli Özel Veri Seti
+*   Etiketli Özel Veri Seti (<a target="_blank" href="https://github.com/emrecintas/Yolov3_Kendi_Nesne_Tanima_Modelini_Gelistirme/blob/master/verisetiOrnek.zip">Örnek Veri Seti</a>)
 *   Özel .cfg dosyası
 *   obj.data ve obj.names dosyaları
 *   train.txt dosyası (test.txt burada isteğe bağlıdır)
